@@ -1,3 +1,7 @@
 other
 bakery-backend/node_modules
 bakery/node_modules
+
+.vscode
+.DS_Store
+/bakery/.DS_Store
